@@ -19,10 +19,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Databases**: SQL Server, MySQL, PostgreSQL  
+- **Databases**: SQL Server, MySQL
 - **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-- **Visualization**: Power BI, Matplotlib, Seaborn  
-- **Other Tools**: Git, Jupyter Notebooks, Excel  
+- **Visualization**: Power BI, Excel  
+
 
 ---
 
