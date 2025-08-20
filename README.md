@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Databases**: SQL Server, MySQL
+- **Databases**: SQL Server
 - **Languages**: Python, SQL  
 - **Visualization**: Power BI, Excel  
 
