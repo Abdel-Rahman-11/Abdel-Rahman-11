@@ -1,4 +1,4 @@
-<img src="https://github.com/mokkapps/mokkapps/blob/master/header.png" alt="Abdel-Rahman Sameh GitHub README header image">
+<img src="<img src="https://github.com/Abdel-Rahman-11/mokapps/blob/main/rahmanian-insights-high-resolution-logo.png?raw=true" alt="Abdel Rahman" width="200"/>" alt="Abdel-Rahman Sameh GitHub README header image">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
