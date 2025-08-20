@@ -5,11 +5,25 @@
 
 ---
 
-## 👋 Hi there, I’m **Abdel-Rahman Sameh**  
+## 👋 Welcome to My GitHub, I’m **Abdel-Rahman Sameh**  
 
 📊 **Data Analyst** passionate about transforming raw data into meaningful insights.  
 💻 I specialize in **SQL Server** & **Python** to solve real-world data challenges.  
 🚀 Always learning about **data engineering, visualization, and analytics best practices**.  
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+## 📬 Contact Me
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
