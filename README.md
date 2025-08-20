@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Abdel-Rahman-11/mokkapps/master/rahmanian-insights-high-resolution-logo.png" alt="Rahmanian Insights Logo" width="600">
+<img src="https://raw.githubusercontent.com/Abdel-Rahman-11/mokkapps/master/rahmanian-insights-high-resolution-logo.png" alt="Rahmanian Insights Logo" width="550">
 
 </p>
 
